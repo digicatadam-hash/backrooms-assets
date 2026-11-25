@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "surfaces": [
+    {
+      "material": "Wall_1",
+      "file": "wall_1.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Wall_2",
+      "file": "wall_2.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Wall_3",
+      "file": "wall_3.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Wall_4",
+      "file": "wall_4.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Moquette_1",
+      "file": "moquette_1.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Moquette_2",
+      "file": "moquette_2.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Moquette_3",
+      "file": "moquette_3.jpg",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "material": "Moquette_4",
+      "file": "moquette_4.jpg",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}
